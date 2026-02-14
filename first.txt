@@ -1,0 +1,1 @@
+DevOps is a cultural, technical, and process-oriented approach that merges software development (Dev) and IT operations (Ops) to shorten the development lifecycle and provide high-velocity, high-quality service delivery. It emphasizes automation, continuous integration/continuous delivery (CI/CD), and shared responsibility to improve efficiency and collaboration. 
